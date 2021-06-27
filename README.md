@@ -13,7 +13,7 @@ Following are the technologies that we have used in our project:
 7. Tkinter
 In Python we have used the following modules to run  our healthcare app:
 1. Tkinter-Tkinter is the standard GUI library for Python. It provides a fast and easy way to create GUI applications and  provides a powerful object-oriented interface to the Tk GUI toolkit.We used it in our app to create the whole Body structure of our app.
-2. Covid- It is a Python package to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info. We used it in our app to get the latest updated  COVID info.
+2.Covid- It is a Python package to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info. We used it in our app to get the latest updated  COVID info.
 3.Plyer-Plyer module is used to access the features of the hardware.  We used it to add notification feature in our app and to show the notifications on our device.
 4.Time- Python time module provides many ways of representing time in code, such as objects, numbers, and strings. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.We used it in our app's notification feature.
 5.Numpy-it is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.
